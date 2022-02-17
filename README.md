@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harshad-surya
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Masters in LJMU,UK
 - 💞️ I’m looking to collaborate on BI,BA
 - 📫 harshadsuryach.27794@gmail.com
 
